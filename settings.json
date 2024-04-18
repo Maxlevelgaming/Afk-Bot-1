@@ -1,13 +1,13 @@
 {
   "bot-account": {
     "username": "bot",
-    "password": "your_password",
+    "password": "Taurus@14",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "Virusin14.aternos.me",
+    "port": 20987,
     "version": "1.19.3"
   },
 
